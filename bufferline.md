@@ -4,6 +4,7 @@
 - [Bufferline](#bufferline)
 
 # Bufferline
+Prosper
 
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ![](https://img.shields.io/github/stars/akinsho/bufferline.nvim) ![](https://img.shields.io/github/last-commit/akinsho/bufferline.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/bufferline.nvim)
   - [roobert/bufferline-cycle-windowless.nvim](https://github.com/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/stars/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/last-commit/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/bufferline-cycle-windowless.nvim)
